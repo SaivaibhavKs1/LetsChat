@@ -4,6 +4,9 @@ Realtime Chat Application
 ![image](https://user-images.githubusercontent.com/87085608/124792771-f2ebd000-df6a-11eb-9b65-16440fb391f0.png)
 
 Chat Application
+def foo():
+    if not bar:
+        return True
 
 Setup:
 
