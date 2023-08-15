@@ -1,4 +1,4 @@
-# Lets Chat
+# <h1>Lets Chat</h1>
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
